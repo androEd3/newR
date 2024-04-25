@@ -11,6 +11,7 @@ namespace ПР_3
         public int calca(int a, int b)
         {
             return a - b;
+            ;
         }
     }
 }
